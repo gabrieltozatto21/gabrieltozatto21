@@ -12,6 +12,7 @@
   <img align="center" alt="Rafa-angularJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
 </div>
   
   ##
